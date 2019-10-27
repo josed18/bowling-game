@@ -23,7 +23,7 @@
 ## run server 
 `python run.py`
 
-##endpoint to calculate score
+## endpoint to calculate score
 ### url
 `POST /api/v1/score` 
 
